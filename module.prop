@@ -1,0 +1,7 @@
+id=condensed-font
+name=Roboto Condensed
+version=v1
+versionCode=1
+author=edi194
+description=Use Roboto Condensed as default system font
+minMagisk=17000
